@@ -5,7 +5,7 @@ This hands-on event is designed to introduce developers to the powerful capabili
 
 ## 📅 Event Details
 
-- **Date:** Wednesday, February 26, 2025  
+- **Date:** Wednesday, April 23, 2025  
 - **Time:** 13:00 - 17:00  
 - **Location:** ESprit School of Engineering  
 - **Organized for:** ESprit School of Engineering students
@@ -53,7 +53,15 @@ cd workshop
 cd apollo-server
 npm install
 node index.js
+cd client
+npm install
+npm run dev
 ```
 Visit http://localhost:4000 to access the GraphQL playground.
+
+ ## 📝 🧠 Let's Practice!
+
+Ready to test your knowledge?  
+👉 [**Launch the Quiz**](https://quizizz.com/join?gc=305912) 
 __________________________
 
