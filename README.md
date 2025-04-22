@@ -15,7 +15,7 @@ This hands-on event is designed to introduce developers to the powerful capabili
 This workshop was developed and facilitated by:
 
 - [Badiaa Bouhdid](https://www.linkedin.com/in/badiaa-bouhdid/)  
-- [Soumaya Sassi Mahfoudh] (https://www.linkedin.com/in/soumaya-sassi-mahfoudh-4a0b463a/)
+- [Soumaya Sassi Mahfoudh](https://www.linkedin.com/in/soumaya-sassi-mahfoudh-4a0b463a/)
 
 ## 🚀 What You Will Learn
 
